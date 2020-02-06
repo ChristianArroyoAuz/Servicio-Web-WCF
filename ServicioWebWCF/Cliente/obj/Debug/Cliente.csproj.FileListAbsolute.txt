@@ -1,0 +1,42 @@
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\bin\Debug\Cliente.pdb
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\obj\Debug\Cliente.Cliente.resources
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\obj\Debug\Cliente.exe
+C:\Users\usuario\Desktop\ServicioWebWCF\Cliente\obj\Debug\Cliente.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.exe
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.pdb
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.exe
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.pdb
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.pdb
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.Cliente.resources
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\bin\Debug\ObjetoRemoto.dll.config
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.Cliente.resources
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\Cliente\obj\Debug\Cliente.pdb

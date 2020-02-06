@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetoRemoto", "ObjetoRemoto\ObjetoRemoto.csproj", "{DFD0B8BE-8B93-405D-A507-E631A020F018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{C35C7497-34E7-4BE7-BF4D-F954D94BCA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD0B8BE-8B93-405D-A507-E631A020F018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD0B8BE-8B93-405D-A507-E631A020F018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD0B8BE-8B93-405D-A507-E631A020F018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD0B8BE-8B93-405D-A507-E631A020F018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35C7497-34E7-4BE7-BF4D-F954D94BCA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35C7497-34E7-4BE7-BF4D-F954D94BCA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35C7497-34E7-4BE7-BF4D-F954D94BCA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35C7497-34E7-4BE7-BF4D-F954D94BCA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301A6F14-7A37-4878-A86A-5DED4ECE156A}
+	EndGlobalSection
+EndGlobal

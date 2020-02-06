@@ -1,0 +1,22 @@
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll.config
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Desktop\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll.config
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Desktop\Reivax\Universidad\Aplicaciones Distribuidas\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll.config
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\ServicioWebWCF\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
